@@ -20,6 +20,10 @@ LOSS FUNCTION : BINARY_CROSSENTROPY<br />
 OPTIMIZER     : STOCHASTIC GRADIENT DESCENT (SGD)<br /> 
 METRICS       : ACCURACY (HOW MANY LABELS DID WE CORRECTLY PREDICT FROM TEST SET)<br />
 
+VALIDATION METHOD : K FOLDS CROSS VALIDATION WITH 3 FOLDS<br />
+NOTE : Also tweaked and tried 10 folds as well as 5 folds but the final metrics did not have any significant or drastics changes so chose 3 Folds 
+
+
 ## Results:
 
 ![](Diabetes_Prediction_files/figure-html/ss.png)<!-- -->
