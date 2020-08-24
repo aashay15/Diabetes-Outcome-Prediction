@@ -20,6 +20,10 @@ LOSS FUNCTION : BINARY_CROSSENTROPY<br />
 OPTIMIZER     : STOCHASTIC GRADIENT DESCENT (SGD)<br /> 
 METRICS       : ACCURACY (HOW MANY LABELS DID WE CORRECTLY PREDICT FROM TEST SET)<br />
 
+## Results:
+
+![](Diabetes_Prediction_files/figure-html/ss.png)<!-- -->
+
 
 
 
